@@ -1,5 +1,8 @@
 ISO-10303-21;
 HEADER;
+/* Stabilizer_Cherry_MX_2.00u.stp by kiswitch/kiswitch on [GitHub](https://github.com/kiswitch/kiswitch),
+ * used under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+ */
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/gimbas/Development/Switch_Keyboard/packages3d_src/Mounting_

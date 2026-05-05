@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -2 0)
 		(layer "F.SilkS")
-		(uuid "ececfaf5-db6b-4222-b7ea-45c5b6b3bd74")
+		(uuid "38222eb9-97dc-4ec3-887d-e484cc23616c")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 			)
 		)
 	)
-	(property "Value" "Stabilizer_Cherry_MX_2.00u"
+	(property "Value" "STAB_MX_2.00u"
 		(at 0 2 0)
 		(layer "F.Fab")
-		(uuid "d1b182dd-6b3a-47c3-b4f6-2b1ef36db825")
+		(uuid "465d1a2f-8296-4fae-b0e6-3b0995565115")
 		(effects
 			(font
 				(size 1 1)
@@ -31,18 +31,18 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c4e5aa2c-ec9d-49ed-8bf3-888c6f4528ce")
+		(uuid "c8ff1981-8e11-4de5-9c4a-5f5559a2c9cb")
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Stabilizer_Cherry_MX_2.00u by kiswitch/kiswitch on GitHub, used under CC-BY-SA-4.0"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5021f721-99e4-4f30-9cd7-f9c32a223291")
+		(uuid "539701f8-2728-4f5c-ba34-a2cd9cc9f9db")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -59,7 +59,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "46bea151-4388-46a9-92ae-9bc7902a4f00")
+		(uuid "5df8fa64-3f5b-4fd0-ba83-b9f0b5503fab")
 	)
 	(fp_line
 		(start 0 2)
@@ -69,7 +69,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "80f5df23-3b64-4114-86d0-574958d50cd4")
+		(uuid "79cea56c-437b-46d5-9dfe-8aa3de64e507")
 	)
 	(fp_line
 		(start -15.313 -5.53)
@@ -79,7 +79,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "dcf6ba1a-53d9-4f31-886b-9831b43a86a3")
+		(uuid "6ef49f25-0cfb-4bfb-85dc-e6a9c0a9c9b3")
 	)
 	(fp_line
 		(start -15.313 6.77)
@@ -89,7 +89,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "b380c38b-b9bc-4b1b-9a02-2c6e981432b1")
+		(uuid "b31f0b51-de3f-4ea0-be22-a22e0f9d220b")
 	)
 	(fp_line
 		(start -8.563 -5.53)
@@ -99,7 +99,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "8b15443f-5334-4e1b-9912-55d93c93150b")
+		(uuid "2b5d735b-3f3d-4563-8aa2-a82589b62099")
 	)
 	(fp_line
 		(start -8.563 6.77)
@@ -109,7 +109,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "8cfe7d9d-7508-46e4-b107-acfe6ded2b12")
+		(uuid "e0b664d6-d12a-4ba5-b631-589124580a67")
 	)
 	(fp_line
 		(start 8.563 -5.53)
@@ -119,7 +119,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "2aa6bc8d-3f27-4cf9-bcd4-6a264f2a7152")
+		(uuid "ea253ec7-de24-430f-9e8e-24f9c63838e2")
 	)
 	(fp_line
 		(start 8.563 6.77)
@@ -129,7 +129,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "db75ff12-f9b5-44bf-98b9-080db3ddf7cb")
+		(uuid "7239d281-d725-4320-8075-7dfa42a7619f")
 	)
 	(fp_line
 		(start 15.313 -5.53)
@@ -139,7 +139,7 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "44cf62c7-5309-4f2c-ae3c-b826d3b7ee7e")
+		(uuid "f5ba2e27-3893-42f7-b7e0-869cbc929b9d")
 	)
 	(fp_line
 		(start 15.313 6.77)
@@ -149,12 +149,12 @@
 			(type solid)
 		)
 		(layer "Eco1.User")
-		(uuid "4a2aeaf6-75c8-4757-8bf4-6dc105891b41")
+		(uuid "c1a6a49a-8adc-437e-a624-4ce59e8b923e")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "821bde10-3647-43df-ad03-43bfcb9b77d4")
+		(uuid "6daf9c56-90bb-4c9b-b54d-b2258b1f0b94")
 		(effects
 			(font
 				(size 1 1)
@@ -167,28 +167,28 @@
 		(size 3.048 3.048)
 		(drill 3.048)
 		(layers "*.Cu" "*.Mask")
-		(uuid "4ba99913-7130-4e90-bbf0-639d0fdd05c8")
+		(uuid "442558de-4597-4736-9372-d39431acb0c8")
 	)
 	(pad "" np_thru_hole circle
 		(at -11.938 8.225)
 		(size 3.9878 3.9878)
 		(drill 3.9878)
 		(layers "*.Cu" "*.Mask")
-		(uuid "38354690-99a8-476e-bb57-8a389b7cc747")
+		(uuid "3dc0ea4b-dde8-4c50-be78-dc6fb93aedb3")
 	)
 	(pad "" np_thru_hole circle
 		(at 11.938 -6.985)
 		(size 3.048 3.048)
 		(drill 3.048)
 		(layers "*.Cu" "*.Mask")
-		(uuid "630dc4d2-ff89-492c-a062-7f66cfb76212")
+		(uuid "98867e45-3b5f-4bb4-a2bc-1dfc844afe30")
 	)
 	(pad "" np_thru_hole circle
 		(at 11.938 8.225)
 		(size 3.9878 3.9878)
 		(drill 3.9878)
 		(layers "*.Cu" "*.Mask")
-		(uuid "91a193c1-08ea-4012-8574-a7d1b9c00b47")
+		(uuid "7db52032-f5d4-4277-bf5b-6a027a32f641")
 	)
 	(embedded_fonts no)
 	(model "${WAFFLE18}/3dmodels/waffle18-stabilizer.3dshapes/STAB_MX_2.00u.step"

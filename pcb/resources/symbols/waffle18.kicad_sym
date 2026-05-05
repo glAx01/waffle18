@@ -56,8 +56,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "1N4148W by kicad/libraries/kicad-symbols on GitLab, used under CC-BY-SA-4.0 / Modified field values"
+			(at 0 4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -245,8 +245,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at -1.016 23.622 0)
+		(property "Description" "MX_SW_HS_KS-2P02B01-01 by ebastler/marbastlib on GitHub, used under CERN-OHL-P-2.0 / Modified field values"
+			(at 0 4.318 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -430,8 +430,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at -1.27 -4.318 0)
+		(property "Description" "MX_stab by ebastler/marbastlib on GitHub, used under CERN-OHL-P-2.0 / Modified field values"
+			(at 0 8.636 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -627,8 +627,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 11.43 0)
+		(property "Description" "XIAO-RP2350-SMD by Seeed-Studio/OPL_Kicad_Library on GitHub, used under CC-BY-SA-4.0 / Modified field values"
+			(at 0 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -1,5 +1,10 @@
 ISO-10303-21;
 HEADER;
+/* xiao-rp2350-v3.step by @SeeedStudio on [Printables](https://www.printables.com/@SeeedStudio),
+ * used under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+ *
+ * Added 320020159 sockets to xiao-rp2350-v3.step
+ */
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME('Open CASCADE Shape Model','2026-05-02T09:31:15',(''),(''),
   'Open CASCADE STEP processor 7.8','FreeCAD','Unknown');
