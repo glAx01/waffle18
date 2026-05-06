@@ -2477,7 +2477,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 205.74 97.282 0)
 			(hide yes)
 			(show_name no)
@@ -2661,7 +2661,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 193.04 97.282 0)
 			(hide yes)
 			(show_name no)
@@ -2741,7 +2741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-stabilizer:STAB_MX_2.00u"
 			(at 214.63 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -2815,7 +2815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 218.44 78.232 0)
 			(hide yes)
 			(show_name no)
@@ -2895,7 +2895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_2.00u-V"
 			(at 180.34 97.282 0)
 			(hide yes)
 			(show_name no)
@@ -2975,7 +2975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 193.04 116.332 0)
 			(hide yes)
 			(show_name no)
@@ -3055,7 +3055,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 180.34 59.182 0)
 			(hide yes)
 			(show_name no)
@@ -3239,7 +3239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 193.04 59.182 0)
 			(hide yes)
 			(show_name no)
@@ -3527,7 +3527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 218.44 116.332 0)
 			(hide yes)
 			(show_name no)
@@ -3815,7 +3815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_2.00u-H"
 			(at 218.44 135.382 0)
 			(hide yes)
 			(show_name no)
@@ -3999,7 +3999,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 218.44 97.282 0)
 			(hide yes)
 			(show_name no)
@@ -4079,7 +4079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 180.34 135.382 0)
 			(hide yes)
 			(show_name no)
@@ -4263,7 +4263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 193.04 135.382 0)
 			(hide yes)
 			(show_name no)
@@ -4551,7 +4551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 205.74 78.232 0)
 			(hide yes)
 			(show_name no)
@@ -5211,7 +5211,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 193.04 78.232 0)
 			(hide yes)
 			(show_name no)
@@ -5395,7 +5395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 205.74 59.182 0)
 			(hide yes)
 			(show_name no)
@@ -5683,7 +5683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 205.74 116.332 0)
 			(hide yes)
 			(show_name no)
@@ -5763,7 +5763,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 218.44 59.182 0)
 			(hide yes)
 			(show_name no)
@@ -5843,7 +5843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-switch:MX_KS-2P02B01-01_1.00u"
 			(at 180.34 78.232 0)
 			(hide yes)
 			(show_name no)
@@ -5923,7 +5923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "waffle18-stabilizer:STAB_MX_2.00u"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
