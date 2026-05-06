@@ -1,3 +1,22 @@
+# KiCad Libraries
+Symbols, footprints, and 3D models used for this project.
+
+
+## Installation
+1. Add path variable
+    - Go to **Preferences -> Configure Paths...**
+    - Add a path variable named `WAFFLE18` and define its path to this directory
+    - **Do not use a different path variable name as the 3D models depend on it**
+2. Add symbol library
+    - Go to **Preferences -> Manage Symbol Libraries...**
+    - Add `waffle18.kicad_sym` from `symbols`
+3. Add footprint libraries
+    - Go to **Preferences -> Manage Footprint Libraries...**
+    - Add all `.pretty` directories from `footprints`
+
+See [KiCad Reference Manual: Paths and libraries configuration](https://docs.kicad.org/10.0/en/kicad/kicad.html#path-variables) for more information.
+
+
 ## Sources
 1N4148W (SOD-123)
 - [KiCad Libraries](https://gitlab.com/kicad/libraries) - symbol, footprint, and 3D model
