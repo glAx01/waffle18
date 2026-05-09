@@ -95,9 +95,9 @@
 		(descr "Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
 		(tags "Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
 		(property "Reference" "STAB2"
-			(at 0 -2 0)
+			(at 0 9.525 0)
 			(layer "F.SilkS")
-			(uuid "ead68332-1fd5-4e37-bb20-e58e24427e33")
+			(uuid "3331bc70-0e30-4361-bc3e-cfb3453098f0")
 			(effects
 				(font
 					(size 1 1)
@@ -108,7 +108,7 @@
 		(property "Value" "STAB_MX"
 			(at 0 2 0)
 			(layer "F.Fab")
-			(uuid "a5c18f7b-df5f-460f-93b3-04df4cec3b97")
+			(uuid "2f9f6301-8fdf-4a8d-bcca-e50ed3fb607a")
 			(effects
 				(font
 					(size 1 1)
@@ -120,7 +120,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2ddfce0-da55-4384-b070-25913c36a3e3")
+			(uuid "e1a2f897-2d76-48cb-a96d-88ee51836a5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -131,7 +131,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36b19e44-9092-4117-8b68-c299ff933aec")
+			(uuid "e1358321-fc71-4fee-b457-9c84fcc67fe4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -307,7 +307,7 @@
 		(descr "Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
 		(tags "Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
 		(property "Reference" "STAB1"
-			(at 0 -2 90)
+			(at 0 9.525 270)
 			(layer "F.SilkS")
 			(uuid "f876479c-0e9e-4601-a779-3212ab2c5e8d")
 			(effects
@@ -517,14 +517,14 @@
 		(uuid "6f12300e-ca83-4216-a8f1-fbb4179e2a4e")
 		(at 96.181074 63.170756 90)
 		(property "Reference" "U1"
-			(at 9.5 0 0)
+			(at 0 -10 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "13f8cea6-ed46-433d-a456-699dbf11c951")
 			(effects
 				(font
-					(size 0.635 0.635)
-					(thickness 0.1016)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -552,7 +552,7 @@
 				)
 			)
 		)
-		(property "Description" "XIAO-RP2350-SMD by Seeed-Studio/OPL_Kicad_Library on GitHub, used under CC-BY-SA-4.0 / Modified field values"
+		(property "Description" "XIAO-Add-On by Seeed-Studio/OPL_Kicad_Library on GitHub, used under CC-BY-SA-4.0 / Removed unused holes and solderpaste margin overrides"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -567,15 +567,6 @@
 		(path "/b4801071-6e78-446a-a3c1-8c8784cdb48e")
 		(sheetname "/")
 		(sheetfile "waffle18.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "29"
-					"30" "28" "27" "26" "25" "24" "23" "22" "21" "20" "19" "18" "17" "16"
-					"15"
-				)
-			)
-		)
 		(attr through_hole)
 		(net_tie_pad_groups "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12"
 			"13" "14"
@@ -25568,6 +25559,18 @@
 				(xyz -0 -180 -0)
 			)
 		)
+	)
+	(gr_rect
+		(start 82.291074 51.629756)
+		(end 184.889824 151.498506)
+		(radius 5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "57c20433-1a5c-47a6-a2e8-07db1ebe028e")
 	)
 	(segment
 		(start 91.183574 58.173256)
