@@ -8,3 +8,7 @@
 ~*
 *-lib-table
 *.kicad_prl
+
+# Production files
+production
+fabrication-toolkit-options.json

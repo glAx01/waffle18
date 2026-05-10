@@ -3,7 +3,12 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "769394b1-b6ca-4463-b4c6-1b343563afa6")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "waffle18")
+		(date "2026-05-10")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "waffle18:1N4148W"
 			(pin_numbers
@@ -1563,7 +1568,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 100.33) (xy 77.47 100.33)
+			(xy 63.5 100.33) (xy 64.77 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1893,7 +1898,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 66.04) (xy 77.47 66.04)
+			(xy 63.5 66.04) (xy 64.77 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1933,7 +1938,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 73.66) (xy 77.47 73.66)
+			(xy 63.5 73.66) (xy 64.77 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1953,7 +1958,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 96.52) (xy 77.47 96.52)
+			(xy 63.5 96.52) (xy 64.77 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2023,7 +2028,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 88.9) (xy 77.47 88.9)
+			(xy 63.5 88.9) (xy 64.77 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2043,7 +2048,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 104.14) (xy 77.47 104.14)
+			(xy 63.5 104.14) (xy 64.77 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2063,7 +2068,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 69.85) (xy 77.47 69.85)
+			(xy 63.5 69.85) (xy 64.77 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2093,7 +2098,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 77.47) (xy 77.47 77.47)
+			(xy 63.5 77.47) (xy 64.77 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2163,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 92.71) (xy 77.47 92.71)
+			(xy 63.5 92.71) (xy 64.77 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2172,7 +2177,7 @@
 		(uuid "fb8222cf-cb73-4036-aeeb-9c478af7eb37")
 	)
 	(label "Row 1"
-		(at 76.2 69.85 180)
+		(at 63.5 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2212,7 +2217,7 @@
 		(uuid "36122fc0-2281-4c4a-a200-34a79de61d72")
 	)
 	(label "Column 3"
-		(at 76.2 92.71 180)
+		(at 63.5 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2252,7 +2257,7 @@
 		(uuid "9b2fb73d-e2eb-486f-b43f-df73900e513e")
 	)
 	(label "Row 2"
-		(at 76.2 73.66 180)
+		(at 63.5 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2272,7 +2277,7 @@
 		(uuid "a1dbb80a-0483-427a-8f96-dd938035f324")
 	)
 	(label "Column 0"
-		(at 76.2 104.14 180)
+		(at 63.5 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2282,7 +2287,7 @@
 		(uuid "cbe294ec-144e-4359-96cd-50abab574910")
 	)
 	(label "Row 0"
-		(at 76.2 66.04 180)
+		(at 63.5 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2292,7 +2297,7 @@
 		(uuid "d8639713-d033-4e54-8447-946474374b45")
 	)
 	(label "Row 4"
-		(at 76.2 88.9 180)
+		(at 63.5 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2312,7 +2317,7 @@
 		(uuid "eda4070c-3424-4ee8-9e64-5f70aac20e19")
 	)
 	(label "Row 3"
-		(at 76.2 77.47 180)
+		(at 63.5 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2322,7 +2327,7 @@
 		(uuid "f16fb5ac-1860-4996-a5ac-c59c91313b20")
 	)
 	(label "Column 2"
-		(at 76.2 96.52 180)
+		(at 63.5 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2332,7 +2337,7 @@
 		(uuid "f95e6bec-0c21-423c-964c-c2e00d2519c6")
 	)
 	(label "Column 1"
-		(at 76.2 100.33 180)
+		(at 63.5 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4819,7 +4824,7 @@
 	)
 	(symbol
 		(lib_id "waffle18:XIAO-RP2350")
-		(at 101.6 88.9 0)
+		(at 88.9 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4830,7 +4835,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4801071-6e78-446a-a3c1-8c8784cdb48e")
 		(property "Reference" "U1"
-			(at 102.8319 58.42 0)
+			(at 90.1319 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4840,7 +4845,7 @@
 			)
 		)
 		(property "Value" "XIAO-RP2350"
-			(at 102.8319 60.96 0)
+			(at 90.1319 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4850,7 +4855,7 @@
 			)
 		)
 		(property "Footprint" "waffle18-mcu:XIAO_DIP"
-			(at 115.824 62.484 0)
+			(at 103.124 62.484 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4861,7 +4866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 77.47 0)
+			(at 88.9 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4872,7 +4877,7 @@
 			)
 		)
 		(property "Description" "XIAO-RP2350-SMD by Seeed-Studio/OPL_Kicad_Library on GitHub, used under CC-BY-SA-4.0 / Modified field values"
-			(at 101.6 58.42 0)
+			(at 88.9 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
